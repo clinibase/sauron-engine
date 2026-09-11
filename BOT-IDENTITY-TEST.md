@@ -10,3 +10,5 @@ action to the right identity.
 | Commits as | `Clive <clive@clinibase.com>` | `Alebot <alessandro.biavati+alebot@clinibase.com>` |
 
 This commit was made by Clive.
+
+This second commit was made by Alebot.
